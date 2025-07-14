@@ -3,7 +3,3 @@ pandas
 numpy
 plotly
 websockets
-datetime
-io
-threading
-requests
